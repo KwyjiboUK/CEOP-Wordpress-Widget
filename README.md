@@ -1,4 +1,4 @@
-# CEOP Wordpress Widget
+# CEOP WordPress Widget
 
 A WordPress plugin to display the CEOP Safety Centre button. Available as a widget or via a short code once the plugin has been activated.
 
